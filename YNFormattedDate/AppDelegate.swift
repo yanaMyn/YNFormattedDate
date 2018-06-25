@@ -3,7 +3,6 @@
 //  YNFormattedDate
 //
 //  Created by yana mulyana on 25/06/18.
-//  Copyright © 2018 yana mulyana. All rights reserved.
 //
 
 import UIKit
